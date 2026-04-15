@@ -1,0 +1,32 @@
+D:\PuzzleGameForm\PuzzleGameForm\bin\Debug\PuzzleGameForm.exe.config
+D:\PuzzleGameForm\PuzzleGameForm\bin\Debug\PuzzleGameForm.exe
+D:\PuzzleGameForm\PuzzleGameForm\bin\Debug\PuzzleGameForm.pdb
+D:\PuzzleGameForm\PuzzleGameForm\obj\Debug\PuzzleGameForm.csproj.AssemblyReference.cache
+D:\PuzzleGameForm\PuzzleGameForm\obj\Debug\PuzzleGameForm.frmPuzzle.resources
+D:\PuzzleGameForm\PuzzleGameForm\obj\Debug\PuzzleGameForm.Properties.Resources.resources
+D:\PuzzleGameForm\PuzzleGameForm\obj\Debug\PuzzleGameForm.csproj.GenerateResource.cache
+D:\PuzzleGameForm\PuzzleGameForm\obj\Debug\PuzzleGameForm.csproj.CoreCompileInputs.cache
+D:\PuzzleGameForm\PuzzleGameForm\obj\Debug\PuzzleGameForm.exe
+D:\PuzzleGameForm\PuzzleGameForm\obj\Debug\PuzzleGameForm.pdb
+D:\PuzzleGameForm\PuzzleGameForm\bin\Debug\Image\b1.png
+D:\PuzzleGameForm\PuzzleGameForm\bin\Debug\Image\b2.png
+D:\PuzzleGameForm\PuzzleGameForm\bin\Debug\Image\b3.png
+D:\PuzzleGameForm\PuzzleGameForm\bin\Debug\Image\b4.png
+D:\PuzzleGameForm\PuzzleGameForm\bin\Debug\Image\basit.png
+D:\PuzzleGameForm - Kopya\PuzzleGameForm\bin\Debug\Image\b1.png
+D:\PuzzleGameForm - Kopya\PuzzleGameForm\bin\Debug\Image\b2.png
+D:\PuzzleGameForm - Kopya\PuzzleGameForm\bin\Debug\Image\b3.png
+D:\PuzzleGameForm - Kopya\PuzzleGameForm\bin\Debug\Image\b4.png
+D:\PuzzleGameForm - Kopya\PuzzleGameForm\bin\Debug\Image\basit.png
+D:\PuzzleGameForm - Kopya\PuzzleGameForm\bin\Debug\PuzzleGameForm.exe.config
+D:\PuzzleGameForm - Kopya\PuzzleGameForm\bin\Debug\PuzzleGameForm.exe
+D:\PuzzleGameForm - Kopya\PuzzleGameForm\bin\Debug\PuzzleGameForm.pdb
+D:\PuzzleGameForm - Kopya\PuzzleGameForm\obj\Debug\PuzzleGameForm.csproj.AssemblyReference.cache
+D:\PuzzleGameForm - Kopya\PuzzleGameForm\obj\Debug\PuzzleGameForm.exe.config
+D:\PuzzleGameForm - Kopya\PuzzleGameForm\obj\Debug\PuzzleGameForm.frmPuzzle.resources
+D:\PuzzleGameForm - Kopya\PuzzleGameForm\obj\Debug\PuzzleGameForm.Properties.Resources.resources
+D:\PuzzleGameForm - Kopya\PuzzleGameForm\obj\Debug\PuzzleGameForm.csproj.GenerateResource.cache
+D:\PuzzleGameForm - Kopya\PuzzleGameForm\obj\Debug\PuzzleGameForm.csproj.CoreCompileInputs.cache
+D:\PuzzleGameForm - Kopya\PuzzleGameForm\obj\Debug\PuzzleGameForm.exe
+D:\PuzzleGameForm - Kopya\PuzzleGameForm\obj\Debug\PuzzleGameForm.pdb
+D:\PuzzleGameForm\PuzzleGameForm\obj\Debug\PuzzleGameForm.exe.config
